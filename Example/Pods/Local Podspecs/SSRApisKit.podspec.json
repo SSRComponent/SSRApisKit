@@ -1,0 +1,27 @@
+{
+  "name": "SSRApisKit",
+  "version": "1.0.0",
+  "summary": "A short description of SSRApisKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SSRComponent/SSRApisKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ordinaryITM": "songshuran@hemayun.com"
+  },
+  "source": {
+    "git": "https://github.com/SSRComponent/SSRApisKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSRApisKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

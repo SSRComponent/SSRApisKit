@@ -1,0 +1,6 @@
+framework module Pods_SSRApisKit_Example {
+  umbrella header "Pods-SSRApisKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
